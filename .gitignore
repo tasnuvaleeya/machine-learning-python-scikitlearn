@@ -1,0 +1,8 @@
+FuelConsumption.csv
+__pycache__
+.ipynb_checkpoints/
+drug200.csv
+env/
+*.zip
+*.csv
+.idea/
